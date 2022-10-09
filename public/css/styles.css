@@ -1,0 +1,23 @@
+.main-head {
+  height: 8rem;
+  color: gray;
+}
+.slider {
+  height: 550px;
+}
+
+.footer {
+  background-color: #001e5f;
+}
+
+.location h4 {
+  color: #a3570f;
+}
+
+.sub-heading {
+  color: #b0c12a !important;
+}
+
+.location p {
+  color: white;
+}
